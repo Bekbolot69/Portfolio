@@ -70,7 +70,7 @@ span.psw {
 
 <h2>Login Form</h2>
 
-<form action="Portfolio.php" method="post">
+<form action="Портфолио.php" method="post">
   <div class="imgcontainer">
     <img src="Ичиго.jpeg.png" alt="Avatar" class="avatar">
   </div>
